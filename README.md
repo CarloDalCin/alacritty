@@ -7,7 +7,7 @@ my alacritty configuration
 - windows
   >"~/AppData/Roaming/alacritty/alacritty.toml"
 
-###info windows
+### info windows
 if you'r in windows and have wsl activate decomment line 3 to 5
 
 ### font
