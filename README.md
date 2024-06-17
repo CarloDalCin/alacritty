@@ -9,7 +9,7 @@ my alacritty configuration
   >"~/AppData/Roaming/alacritty/alacritty.toml"
 
 
-## info windows
+## info for windows
 if you'r in windows and have wsl activate decomment line 3 to 5
 
 
